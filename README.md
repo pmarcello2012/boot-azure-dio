@@ -20,3 +20,14 @@ Lembrando que o Azure disponibiliza uma calculdadora para gerenciar os custos co
 Temos que estar atentos aos serviços oferecidos pelo Azure, funções e funionalidades.
 
 O Azure oferece capacidade robusta de armazenamento e também ferramentas robustas para transferências de dados, com segurança e confiabilidade.
+Arquitetura e Serviços do Azure
+
+Serviços de Diretório
+
+Métodos de Autenticação
+
+Modelos de Segurança
+
+
+Microsoft Entra - os funcionários entram para acessar os recuros, onde o logon é único (SSO.
+Gerencia os aplicativos e negócios B2B.
