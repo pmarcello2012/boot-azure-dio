@@ -112,3 +112,13 @@ Microsoft Defender for Cloud
 Serviço de monitoramento que fornece proteção contra ameaças nos
 datacenters do Azure
 
+Custos Azure - https://azure.microsoft.com/en-us/pricing/tco/calculator/
+
+Calculadora do TCO (Custo Total de Propriedade)
+
+Defina as suas cargas de trabalho
+Ajuste suposições
+Exibe relatórios Salvos
+Advisor tras sugestões de melhorias relacionadas aos custos.
+
+
