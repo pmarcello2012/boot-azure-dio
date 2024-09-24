@@ -31,3 +31,17 @@ Modelos de Segurança
 
 Microsoft Entra - os funcionários entram para acessar os recuros, onde o logon é único (SSO.
 Gerencia os aplicativos e negócios B2B.
+
+Comparar a autenticação e a autorização
+
+Identifica a pessoa ou serviço buscando acesso a um recurso;
+Solicita credenciais de acesso legítimo;
+Base para criar princípios de identidade e controle de acesso seguros;
+
+Autorização
+
+Determina o nível de acesso de uma pessoa ou serviço automático;
+Define quais dados eles podem acessar e o que podem fazer com eles;
+
+
+
