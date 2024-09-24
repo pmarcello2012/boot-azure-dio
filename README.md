@@ -17,4 +17,6 @@ Seleciono o modelo de redundância (SLA)
 Observar que com base no que foi configurado qual o valor mensal que será cobrado pelo serviço.
 Lembrando que o Azure disponibiliza uma calculdadora para gerenciar os custos cobrados pelos serviços.
 
-TEmos que estar atentos aos serviços oferecidos pelo Azure, funções e funionalidades.
+Temos que estar atentos aos serviços oferecidos pelo Azure, funções e funionalidades.
+
+O Azure oferece capacidade robusta de armazenamento e também ferramentas robustas para transferências de dados, com segurança e confiabilidade.
