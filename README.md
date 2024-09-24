@@ -43,5 +43,72 @@ Autorização
 Determina o nível de acesso de uma pessoa ou serviço automático;
 Define quais dados eles podem acessar e o que podem fazer com eles;
 
+Modelos de Segurança
 
+
+Microsoft Entra - os funcionários entram para acessar os recuros, onde o logon é único (SSO.
+Gerencia os aplicativos e negócios B2B.
+
+
+Comparar a autenticação e a autorização
+
+Identifica a pessoa ou serviço buscando acesso a um recurso;
+Solicita credenciais de acesso legítimo;
+Base para criar princípios de identidade e controle de acesso seguros;
+
+Autorização
+
+Determina o nível de acesso de uma pessoa ou serviço automático;
+Define quais dados eles podem acessar e o que podem fazer com eles;
+
+Autenticação Multifator
+
+Fornece segurança adicional para as identidades, exigindo dois ou mais elementos
+para autenticação completa.
+
+B2B do Microsoft Entra External ID
+
+Parceiros, fornecedores, outros colaboradores fora da instituição;
+
+B2B empresa para empresa
+
+Acesso Condicional
+
+Associação de usuário ou grupo;
+Local do IP;
+Dispositivo;
+Aplicativo;
+Detecção de Risco;
+
+Controle de Acesso Baseado em função - RBAC do Azure
+
+Gerenciamento de acesso de granulidade fina;
+Divida as tarefas  dentro da equipe e conceda somente a quantidade
+de acesso de que usuários precisam para trabalhar;
+Habilite o acesso ao portal do Azure e o controle de acesso aos
+recursos;
+
+Modelo de Confiança Zero
+
+Proteja os Ativos onde eles estiverem com a Confiança Zero
+
+Verificar de forma explícita, sempre usar requisito de menor privilégio.
+
+-Segurança física;
+-Identidade e acesso;
+-Perímetro;
+-Rede;
+-Computação;
+-Aplicativo;
+-Dados;
+
+Proteção completa
+
+Abordagem em camadas para proteger sistemas de computador
+Fornece vários níveis de proteção
+Ataques são isolados
+
+Microsoft Defender for Cloud
+Serviço de monitoramento que fornece proteção contra ameaças nos
+datacenters do Azure
 
