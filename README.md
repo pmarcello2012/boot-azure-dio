@@ -121,4 +121,34 @@ Ajuste suposições
 Exibe relatórios Salvos
 Advisor tras sugestões de melhorias relacionadas aos custos.
 
+Bloqueios de Recursos
+
+Proteja os recursos do Azure de exclusão ou modificação acidental
+Gerenciar bloqueios na assinatura, grupo de recursos ou níveis de
+recursos individuais dentro do Portal do Azure.
+
+Bloqueios sempre caem na prova
+
+Tipos de Bloqueio
+excluir / ler = sim / atualizar = sim / excluir = não
+
+ReadOnly  ler = sim / atualizar = Não / Excluir  = Não
+
+
+Portal de Confiança do Serviço
+
+Link aberto ao público que inclui todas as informações.
+
+Microsoft Purview
+
+É uma família de soluções de governança, risco e conformidade de dados
+que ajuda a obter uma única exibição unificada em seus dados. O Microsoft Purview
+reúne insights sobre seus dados locais, multinuvem e de software como serviço.
+
+Descoberta de dados automatizada
+Classificação de dados confidenciais
+Linhagem de dados de ponta a ponta
+
+
+
 
