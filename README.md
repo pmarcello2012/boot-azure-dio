@@ -192,6 +192,49 @@ BICEP
 Bicep modelo de linguagem criado pela Microsoft onde podemos criar nossos recursos,
 somente aceito no Azure.
 
+* Ferramentas de Monitoramento - Azure
+
+-Descrever a finalidade do Assistente do Azure
+Ferramenta cloud native que faz recomendações nas boa práticas recomendadas
+para otimizar as implantações do Azure.
+
+Confiabilidade, Segurança, Desempenho, Custo e excelência operacional;
+Vai recolher as informações de todos esses tópicos e sintetizar as informações
+para tomada de decisões.
+
+Confiabiliade tem 06 recursos afetados.
+Segurança Recurso impactado
+
+* Descrever a integridade do Serviço do Azure
+
+Integridade é uma coleção de serviços que mantêm você informado sobre
+o status geral do Azure,  status de serviços que podem afetar você  e o
+status de recurso específico que está afetando você.
+
+* Resource Health
+
+Exibição personalizada dos recursos reais do Azure.
+Ele fornece informações sobre a integridade de seus
+recursos de nuvem individuais.
+
+Azure Monitor
+
+Maximiza a disponibilidade e o desempenho de aplicativos e serviços
+coletando, analisando e tomando decisões com base na Telemetria da nuvem
+e de ambientes locais.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
