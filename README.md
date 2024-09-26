@@ -151,4 +151,59 @@ Linhagem de dados de ponta a ponta
 
 
 
+Ferramentas para interagir com o Azure
+
+- Portal Azure
+
+- Azure PowerShell
+
+- Azure Cloud Shell
+
+- Interface de lina de Comando (CLI)
+
+O Azure Arc é um serviço da Microsoft que permite gerenciar e governar recursos de TI em diferentes ambientes, como nuvem, datacenters, edge e dispositivos.
+Gerenciamento mais assertivo.
+
+o ARM (Azure Resource Manager) é como se fosse um grande funil, recebe requisições e 
+cria meus recursos.
+
+Infraestrutura como código
+- Garante a consistência na implantação em todo o ecossistema de nuvem.
+Gerencie a configuração em escala.
+
+Provisionar os ambientes de forma muito mais rápida.
+Modelos do ARM
+
+São arquivos JSON (Javascript Object Notation) que podem ser usados
+para criar e implantar a infraestrutura do Azure sem a necessidade
+de escrever comandos de programação.
+
+Sintaxe declarativa
+Resultados repetíveis
+Orquestração
+Arquivos modulares
+Validação integrada
+Código Exportável
+Modelo enviado
+Infraestrutura como código sem modelo
+
+BICEP
+
+Bicep modelo de linguagem criado pela Microsoft onde podemos criar nossos recursos,
+somente aceito no Azure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
